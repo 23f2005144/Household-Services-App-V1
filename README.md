@@ -37,6 +37,16 @@
 
 ---
 
+## 🛠️ Setup & Installation
+
+1. **Create virtual environment** — `python3 -m venv .venv`  
+2. **Activate it** — `source .venv/bin/activate`  
+3. **Install dependencies** — `pip install -r requirements.txt`  
+4. **Run the application** — `python3 main.py`  
+
+---
+
+
 ## 📝 Abstract:
 This project is a multi-user application designed for **Admin**, **Customers**, and **Professionals**, providing comprehensive home servicing and solutions. The development was structured in phases:
 
